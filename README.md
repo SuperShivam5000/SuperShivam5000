@@ -20,5 +20,5 @@ Additionally, I have experience in game development using C# within the Unity en
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperShivam5000&layout=compact&theme=radical)
 
 ### 📫 How to reach me
-- **Email**: [adityatiwari2003.at@gmail.com](mailto:adityatiwari2003.at@gmail.com)
-- **LinkedIn**: [Your LinkedIn]([[https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/aditya-tiwari-2841101b9/](https://www.linkedin.com/in/aditya-tiwari-2841101b9/)
+- **Email**: [My Mail](mailto:adityatiwari2003.at@gmail.com)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/aditya-tiwari-2841101b9/)
