@@ -17,8 +17,6 @@ Please also visit my [Glitch](https://glitch.com/@adityatiwari2003.at) page for 
 • **Blockchain Development (Basic)** – Building blockchain apps on the ICP blockchain using Motoko   
 • **Machine Learning (Basic)** – NumPy, Matplotlib, Pandas, TensorFlow, Tensorflow.js  
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuperShivam5000&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperShivam5000&layout=compact&theme=radical)
 
 ### 📫 How to reach me
